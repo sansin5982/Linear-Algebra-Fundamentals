@@ -4,6 +4,50 @@ A vector is an ordered list of numbers called components.
 
 **v** = (*v*<sub>1</sub>, *v*<sub>2</sub>, …, *v*<sub>*n*</sub>)
 
+# Lists of Numbers as Vectors
+
+Suppose the ages (in years) of seven people are given as follows:
+
+28; 34; 25; 40; 31; 37; 29
+
+------------------------------------------------------------------------
+
+## Denoting Values with Symbols and Subscripts
+
+We can represent all values in this list using a single symbol, say *a*,
+but with different subscripts:
+
+*a*<sub>1</sub>; *a*<sub>2</sub>; *a*<sub>3</sub>; *a*<sub>4</sub>; *a*<sub>5</sub>; *a*<sub>6</sub>; *a*<sub>7</sub>
+
+------------------------------------------------------------------------
+
+## Example: What Does Each Subscript Mean?
+
+Each subscript identifies the position of the value in the list.
+
+For example: - *a*<sub>1</sub> = 28 → the first number -
+*a*<sub>2</sub> = 34 → the second number - *a*<sub>3</sub> = 25 → the
+third number - *a*<sub>4</sub> = 40 → the fourth number -
+*a*<sub>5</sub> = 31 → the fifth number - *a*<sub>6</sub> = 37 → the
+sixth number - *a*<sub>7</sub> = 29 → the seventh number
+
+------------------------------------------------------------------------
+
+## Expressing the Entire List as a Vector
+
+We can write the full list compactly as:
+
+**a** = (*a*<sub>1</sub>, *a*<sub>2</sub>, *a*<sub>3</sub>, *a*<sub>4</sub>, *a*<sub>5</sub>, *a*<sub>6</sub>, *a*<sub>7</sub>)
+
+------------------------------------------------------------------------
+
+## What Is This Called?
+
+Such a list of values is called: - A **linear array** - Or a **vector**
+
+It allows us to handle multiple related values using one symbol and
+position markers (subscripts).
+
 ------------------------------------------------------------------------
 
 # 2. Vectors in ℝ<sup>*n*</sup>
