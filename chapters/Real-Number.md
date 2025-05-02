@@ -77,7 +77,8 @@ class="math inline"><em>a</em> ≠ 0</span>): <span class="math inline">$a
 **Example:** - 3 + 5 = 8 (closure under addition) -
 (3 + 4) + 5 = 3 + (4 + 5) (associativity)
 
-------------------------------------------------------------------------
+The notation: *a*, *b* ∈ ℝ means: \* ***a*** and ***b*** are elements or
+members of the ℝ \* Here *a* and *b* are integers not fractions —
 
 # 3. Ordering and Inequalities
 
